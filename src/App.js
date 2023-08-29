@@ -1,11 +1,11 @@
 import React from 'react';
-import ImageFilter from './ImageFilter';
+import Login from './Login';
 
 
 const App = () => {
   return (
     <div>
-      <ImageFilter />
+      <Login />
     </div>
   )
 }
